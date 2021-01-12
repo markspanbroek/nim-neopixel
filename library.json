@@ -1,0 +1,8 @@
+{
+  "name": "nim-neopixel",
+  "version": "0.1.0",
+  "dependencies": {
+    "adafruit/Adafruit NeoPixel": "^1.7.0",
+    "nim-platformio": "https://github.com/markspanbroek/nim-platformio"
+  }
+}
